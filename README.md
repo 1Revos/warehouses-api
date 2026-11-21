@@ -1,3 +1,5 @@
+<img width="1280" height="853" alt="изображение" src="https://github.com/user-attachments/assets/72e7ff47-8e19-4ea1-93ca-c39e42cc9bdc" />
+
 # Warehouses & Shops API
 
 RESTful JSON API на Ruby on Rails для управления складами, магазинами, товарами и их остатками (складскими и розничными запасами).
