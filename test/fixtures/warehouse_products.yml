@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  warehouse: MyString
+  preferences: MyString
+  product: MyString
+  preferences: MyString
+  quantity: MyString
+  integer: MyString
+
+two:
+  warehouse: MyString
+  preferences: MyString
+  product: MyString
+  preferences: MyString
+  quantity: MyString
+  integer: MyString
